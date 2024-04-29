@@ -3,13 +3,13 @@
   <html>
    <body>
   <p align="center">  
-  <a aria-label="FORK" href="https://github.com/Giftedmaurice/gifted-md-qr/fork" target="_blank">
+  <a aria-label="FORK" href="https://github.com/Bennyblanco9116/blanco--qr/fork" target="_blank">
     <img alt="License: GPL-3" src="https://img.shields.io/github/stars/SuhailTechInfo/web-qr?style=social" target="_blank" />
   </a>
-  <a aria-label="Gifted_Md is free to use" href="https://youtube.com/@giftedtechnexus" target="_blank">
+  <a aria-label="Blanco_Md is free to use" href="https://youtube.com/@giftedtechnexus" target="_blank">
     <img alt="GiftedTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
-    <p align="center"><img src="https://profile-counter.glitch.me/{Giftedmaurice}/count.svg" alt="GiftedTech :: Visitor's Count" /></p>
+    <p align="center"><img src="https://profile-counter.glitch.me/{Blanco}/count.svg" alt="BlancoTech :: Visitor's Count" /></p>
 
      
   </body>
@@ -18,7 +18,7 @@
 
 ## Deployment Methods
 ---
-1.  ***Click [`FORK`](https://github.com/Giftedmaurice/gifted-md-qr/fork) and `Star ⭐ Repository` if you get help from repo.***
+1.  ***Click "https://github.com/blanco--qr/fork) and `Star ⭐ Repository` if you get help from repo.***
 2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Bennyblanco9116/Blanco--qr).***
 3.  ***Deploy on [`REPLIT`](https://replit.com/github/Giftedmaurice/gifted-md-qr).***
 4. ***Deploy on [`RENDER`](https://dashboard.render.com/login).***
@@ -81,5 +81,5 @@ RENDER PROCESS:
 
 
 
-## MADE WITH ❤️ BY GIFTED TECH:
- <a href="https://github.com/Giftedmaurice"><img src="https://github.com/Giftedmaurice.png" width="250" height="250" alt="Giftedmaurice"/></a>
+## MADE WITH ❤️ BY BLANCO TECH:
+ <a href="https://github.com/Giftedmaurice"><img src="https://github.com/Bennyblanco9116.png" width="250" height="250" alt="Giftedmaurice"/></a>
