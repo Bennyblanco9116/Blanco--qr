@@ -106,7 +106,7 @@ SESSION-ID ==> ${Scan_Id}
             // console.log("Reason : ",DisconnectReason[reason])
             if (reason === DisconnectReason.connectionClosed) {
               console.log("Connection closed!")
-             // BLANCO().catch(err => console.log(err));
+             // GIFTED().catch(err => console.log(err));
             } else if (reason === DisconnectReason.connectionLost) {
                 console.log("Connection Lost from Server!")
             //  GIFTEDL().catch(err => console.log(err));
@@ -115,7 +115,7 @@ SESSION-ID ==> ${Scan_Id}
               GIFTED().catch(err => console.log(err));
             } else if (reason === DisconnectReason.timedOut) {
                 console.log("Connection TimedOut!")
-             // BLANCO().catch(err => console.log(err));
+             // GIFTED().catch(err => console.log(err));
             }  else {
                 console.log('Connection closed with bot. Please run again.');
                 console.log(reason)
