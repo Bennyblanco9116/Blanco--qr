@@ -43,5 +43,5 @@ function start(file, ...args) {
   });
 }
 
-start('gift.js');
+start('gifted.js');
      
