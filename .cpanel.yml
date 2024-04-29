@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/giftech/giftedcpanel/home/giftedmdqr/public_html/
+    - export DEPLOYPATH=/blancotech/blancocpanel/home/blancomdqr/public_html/
     - /bin/cp -R images $DEPLOYPATH
     
 
