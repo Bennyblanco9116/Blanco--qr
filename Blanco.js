@@ -15,28 +15,28 @@ const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 *✅sᴇssɪᴏɴ ᴄᴏɴɴᴇᴄᴛᴇᴅ✅*
 *Made With 💜*
-*By ɢɪғᴛᴇᴅ ᴛᴇᴄʜ💜*
+*By Blanco ᴛᴇᴄʜ💜*
 ____________________________________
 ╔════◇
-║『 𝐖𝐎𝐖 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃 』
+║『 𝐖𝐎𝐖 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 BLANCO 𝐌𝐃 』
 ║ You've Completed the First Step
 ║ to Deploy a Whatsapp Bot.
 ╚════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _youtube.com/@giftedtechnexus_
-║❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/message/NHCZC5DSOEUXB1_
-║❒ 𝐑𝐞𝐩𝐨: _https://github.com/Giftedmaurice/gifted-mdV2_
-║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/FPzB9wRD9RN4Zk2y2rnH3S_
-║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o_
-║❒ 𝐏𝐥𝐮𝐠𝐢𝐧𝐬: _https://github.com/Giftedmaurice/gifted-bot-md-plugins_
+║❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _youtube.com/@Blanco 
+║❒ 𝐎𝐰𝐧𝐞𝐫: _* *https://wa.me/254740915718*
+║❒ 𝐑𝐞𝐩𝐨: _https://github.com/Bennyblanco9116/Blanco-Md_
+║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/DQ6KNRlDuY0KJYJegr5JcZ
+║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: *Coming*  *soon*
+║❒ 𝐏𝐥𝐮𝐠𝐢𝐧𝐬: _https://github.com/Bennyblanco9116/blanco-Md-Plugins_
 ║    💜💜💜
 ╚════════════════════╝ 
- *©²⁰²⁴ ᴳᴵᶠᵀᴱᴰ ᵂᴴᴬᵀˢᴬᴾᴾ ᴮᴼᵀˢ*
+ *©²⁰²⁴ Blanco Whatsapp Bots*
 ___________________________________
 
 Don't Forget To Give Star⭐ To My Repo
-`
+
 
 
 
@@ -106,7 +106,7 @@ SESSION-ID ==> ${Scan_Id}
             // console.log("Reason : ",DisconnectReason[reason])
             if (reason === DisconnectReason.connectionClosed) {
               console.log("Connection closed!")
-             // GIFTED().catch(err => console.log(err));
+             // BLANCO().catch(err => console.log(err));
             } else if (reason === DisconnectReason.connectionLost) {
                 console.log("Connection Lost from Server!")
             //  GIFTEDL().catch(err => console.log(err));
@@ -115,7 +115,7 @@ SESSION-ID ==> ${Scan_Id}
               GIFTED().catch(err => console.log(err));
             } else if (reason === DisconnectReason.timedOut) {
                 console.log("Connection TimedOut!")
-             // GIFTED().catch(err => console.log(err));
+             // BLANCO().catch(err => console.log(err));
             }  else {
                 console.log('Connection closed with bot. Please run again.');
                 console.log(reason)
@@ -144,7 +144,7 @@ SESSION-ID ==> ${Scan_Id}
     await fs.emptyDirSync(__dirname+'/auth_info_baileys'); 
 
 
-    //// MADE WITH💜 BY GIFTED TECH
+    //// MADE WITH💜 BY BLANCO TECH
 
 });
 
